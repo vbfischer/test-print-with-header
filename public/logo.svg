@@ -1,0 +1,57 @@
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="100"
+          height="19"
+          viewBox="0 0 100 19"
+          fill="none"
+        >
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M0 0H5.79512V18.2779H0V0Z"
+            fill="#1E1F1F"
+          ></path>
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M34.5398 18.2781H54.5127V13.8864H40.1514V10.1914H34.5398V18.2781Z"
+            fill="#1E1F1F"
+          ></path>
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M22.76 13.584H13.7072V10.4375H8.09375V18.2782H23.6726C29.2842 18.2782 32.6168 15.7551 32.6168 11.2388V10.4375H27.0017C26.9357 12.9256 25.1195 13.584 22.76 13.584Z"
+            fill="#1E1F1F"
+          ></path>
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M13.7072 4.54372H22.76C25.1103 4.54372 26.9246 5.2002 27.0017 7.66816H32.6168V7.04477C32.6168 2.52288 29.2842 0 23.6726 0H8.09375V7.66816H13.7072V4.54372Z"
+            fill="#1E1F1F"
+          ></path>
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M54.5165 4.24306V0H34.5398V7.66816H40.1514V4.24306H54.5165Z"
+            fill="#1E1F1F"
+          ></path>
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M42.0757 7.41699H54.2703V10.6808H42.0757V7.41699Z"
+            fill="#1E1F1F"
+          ></path>
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M92.6456 10.4375H82.6713L77.17 16.4261L71.6705 10.4375H61.7162L54.5125 18.2782H61.8924L66.6884 12.6266L71.4975 18.2782H82.8457L87.6457 12.6266L92.4473 18.2819H99.9998L92.6456 10.4375Z"
+            fill="#1E1F1F"
+          ></path>
+          <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M77.17 1.8556L82.5117 7.66816H92.7855L99.8256 0H92.4473L87.6475 5.65295L82.8476 0.00352063L71.5015 0L66.6884 5.65295L61.8924 0.00352063H54.5125L61.5545 7.66816H71.8358L77.17 1.8556Z"
+            fill="#1E1F1F"
+          ></path>
+        </svg>
+
