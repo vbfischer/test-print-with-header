@@ -85,4 +85,28 @@ td {
 */
 
 @media print {
+  header {
+    position: fixed;
+    top: 0;
+    background-color: white;
+  }
+
+  .header-padding {
+    display: revert;
+  }
+
+  .header-padding * {
+    display: block;
+    height: 300px;
+    box-sizing: border-box;
+  }
+
+  /* header:before { */
+  /*   content: " "; */
+  /*   display: block; */
+  /* } */
+
+  table {
+    table-layout: fixed;
+  }
 }
